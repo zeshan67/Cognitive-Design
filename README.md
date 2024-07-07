@@ -16,6 +16,15 @@ Every exercise of this exercise have different sets of instructions. For example
 a. Go to Sketch in the menu bar.\
 b. Select Import Library.\
 c. Choose Add Library.\
-d. Search for Minim and install it.\
+d. Search for Minim and install it.
 
 I am still learning this, if you are following this library, welcome to my journey! Let's make the world more respinsive and dynamic! Both side of our screens!
+
+## Sound Cognition Branch:
+
+V1: There is only one shape that changes shape based on the sound input.\
+V2: We start dealing with multiple shapes.\
+V3: Now we learn to integrate physics with the code. The 2D objects interact with each other (Like they bump into each other and shows elasticity).\
+V4: The movement physics become sound sensitive as well.\
+V5: We work more with the physics and sound sensitivity.\
+V6: I mean, I am a designer, so had to tune the colors. Fun thing is, the colors get more vibrant when sound is loud!\
