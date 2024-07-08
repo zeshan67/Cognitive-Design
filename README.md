@@ -1,12 +1,12 @@
 # Cognitive-Responsive-Visual-Design
 
-One of the fundamental distinctions between human and synthetic intelligence lies in their respective approaches to handling cognitive data and understanding. Human beings, along with other living entities, develop "general intelligence" largely through their innate ability to learn from scratch using their cognitive capacities. This development is significantly influenced by parental guidance and the natural progression of cognitive skills over time.\
+One of the fundamental distinctions between human and synthetic intelligence lies in their respective approaches to handling cognitive data and understanding. Human beings, along with other living entities, develop "general intelligence" largely through their innate ability to learn from scratch using their cognitive capacities. This development is significantly influenced by parental guidance and the natural progression of cognitive skills over time.
 
 
-In contrast, the development of artificial intelligence follows a markedly different trajectory. AI systems can be engineered to identify patterns within cognitive data, such as extensive image datasets. However, this process is inherently orchestrated; even in cases of unsupervised learning, the system's capabilities are confined to the parameters set by the data it was trained on.\
+In contrast, the development of artificial intelligence follows a markedly different trajectory. AI systems can be engineered to identify patterns within cognitive data, such as extensive image datasets. However, this process is inherently orchestrated; even in cases of unsupervised learning, the system's capabilities are confined to the parameters set by the data it was trained on.
 
 
-Design professionals, on the other hand, rely heavily on their cognitive experiences to inform their creative processes. As we move towards the next generation of environment design, it is becoming increasingly evident that there is a need to prioritize cognitive interaction with computational systems in real time. By doing so, we can enhance the integration of human cognitive strengths with the precision and efficiency of AI, ultimately fostering a more symbiotic relationship between human and synthetic intelligence in the field of design.\
+Design professionals, on the other hand, rely heavily on their cognitive experiences to inform their creative processes. As we move towards the next generation of environment design, it is becoming increasingly evident that there is a need to prioritize cognitive interaction with computational systems in real time. By doing so, we can enhance the integration of human cognitive strengths with the precision and efficiency of AI, ultimately fostering a more symbiotic relationship between human and synthetic intelligence in the field of design.
 
 ## What this collection of code is:
 My learning journey involves integrating design cognition with architectural and environmental design processes, encompassing both 2D and 3D, as well as cyber and physical realms. I utilize a specialized Java-enabled language called "Processing" to develop responsive computer programs based on cognitive agents, such as sound, light, and temperature—elements that significantly influence architectural design qualities.\
@@ -27,4 +27,4 @@ V2: We start dealing with multiple shapes.\
 V3: Now we learn to integrate physics with the code. The 2D objects interact with each other (Like they bump into each other and shows elasticity).\
 V4: The movement physics become sound sensitive as well.\
 V5: We work more with the physics and sound sensitivity.\
-V6: I mean, I am a designer, so had to tune the colors. Fun thing is, the colors get more vibrant when sound is loud!\
+V6: I mean, I am a designer, so had to tune the colors. Fun thing is, the colors get more vibrant when sound is loud!
